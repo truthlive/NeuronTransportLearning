@@ -1,0 +1,6 @@
+n_noisesmooth 20    
+ratio_bifur_node 0.2   
+ratio_noisesmooth 0.01 
+seg_length 0.75      
+ratio_refine 0.5     
+n_sample 401
